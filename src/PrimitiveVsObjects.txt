@@ -1,0 +1,8 @@
+PART A
+	The problem on the first part is that we're not using a condition. 
+	Instead the person will always return "Q".
+
+PART B
+	This is not much different other than the fact we're checking for a different type. 
+	We're still returning 'Q'.
+	
